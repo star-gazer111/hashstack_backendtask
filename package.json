@@ -1,0 +1,15 @@
+{
+  "name": "hashstack_backendtask",
+  "version": "1.0.0",
+  "description": "taskforr2",
+  "main": "apiendpoint_testcase.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "author": "star_gazer",
+  "license": "ISC",
+  "dependencies": {
+    "@jest/globals": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
